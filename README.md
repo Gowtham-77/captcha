@@ -1,2 +1,2 @@
 # captcha
-This is about how develop a captcha field.
+This is about how to develop a captcha field by using PHP.
